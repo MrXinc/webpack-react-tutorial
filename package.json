@@ -1,0 +1,8 @@
+{
+  "name": "webpack-react-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:MrXinc/webpack-react-tutorial.git",
+  "author": "Frank Purcell <fxpurcell@gmail.com>",
+  "license": "MIT"
+}
